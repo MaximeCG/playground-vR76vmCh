@@ -1,0 +1,13 @@
+title : Python Prime Number Sieves
+cover: pages/sieve.jpg
+plan:
+  - title: Introduction
+    statement: pages/intro.md
+  - title: Algorithm
+    statement: pages/algorithm.md
+  - title: Implementation
+    statement: pages/sieve.md
+projects:
+  python:
+    root: /sieve
+    runner: python:3
